@@ -97,6 +97,7 @@ header h1 {
 
 a {
     color: #666;
+    text-decoration: none;
 }
 
 footer {
